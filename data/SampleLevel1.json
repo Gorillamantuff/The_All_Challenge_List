@@ -9,10 +9,10 @@
     "password": "Not Copyable",
     "records": [
         {
-            "user": "",
-            "link": "",
-            "percent": ,
-            "FPS": 
+            "user": "placeholder",
+            "link": "https://the-all-challenge-list-n3a9b2nrv-gtree830-3449s-projects.vercel.app/#/",
+            "percent":"100",
+            "FPS":"1" 
         }
     ]
 }
