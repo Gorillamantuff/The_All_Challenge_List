@@ -8,5 +8,10 @@
     "percentToQualify": 100,
     "password": "Not Copyable",
     "records": [
+        {
+        "user": "Clocker404",
+            "percent": 100,
+            "hz": 180,
+        }     "link": "https://youtu.be/ihKrQg-Miuk"
     ]
 }
